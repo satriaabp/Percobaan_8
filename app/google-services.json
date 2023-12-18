@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1087220531871",
+    "project_id": "percobaan8f55122059",
+    "storage_bucket": "percobaan8f55122059.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087220531871:android:71bef1d73d81b4d35d98aa",
+        "android_client_info": {
+          "package_name": "com.satria.percobaan8"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_q--8g0Tzl1zPViEMrOCMWtwoi1muYQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
